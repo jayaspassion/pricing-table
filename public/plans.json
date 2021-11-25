@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Free",
+    "cost": "0",
+    "features": [
+      {
+        "name": "User",
+        "access": true
+      },
+      {
+        "name": "Storage",
+        "access": true
+      },
+      {
+        "name": "Unlimited Public Projects",
+        "access": false
+      },
+      {
+        "name": "Community Access",
+        "access": false
+      },
+      {
+        "name": "Monthly Status Reports",
+        "access": false
+      }
+    ]
+  },
+
+  {
+    "name": "Plus",
+    "cost": "9",
+    "features": [
+      {
+        "name": "User",
+        "access": true
+      },
+      {
+        "name": "Storage",
+        "access": true
+      },
+      {
+        "name": "Unlimited Public Projects",
+        "access": true
+      },
+      {
+        "name": "Community Access",
+        "access": false
+      },
+      {
+        "name": "Monthly Status Reports",
+        "access": false
+      }
+    ]
+  },
+  {
+    "name": "Pro",
+    "cost": "49",
+    "features": [
+      {
+        "name": "User",
+        "access": true
+      },
+      {
+        "name": "Storage",
+        "access": true
+      },
+      {
+        "name": "Unlimited Public Projects",
+        "access": true
+      },
+      {
+        "name": "Community Access",
+        "access": true
+      },
+      {
+        "name": "Monthly Status Reports",
+        "access": true
+      }
+    ]
+  }
+]
