@@ -34,7 +34,7 @@ function PricingCard(props) {
           })}
         </ul>
         <a
-          href="#"
+          href="#!"
           className="btn btn-primary btn-block p-2 shadow rounded-pill"
         >
           Subscribe
